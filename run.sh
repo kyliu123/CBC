@@ -1,3 +1,3 @@
 #!/bin/bash
-python app/ourmethod/main.py $1
+python app/foldseek/main.py $1
 
